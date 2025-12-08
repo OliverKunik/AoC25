@@ -1,6 +1,3 @@
-// //
-// // Created by oliver on 12/8/25.
-// //
 // --- Day 8: Playground ---
 //
 // Equipped with a new understanding of teleporter maintenance, you confidently step onto the repaired teleporter pad.
